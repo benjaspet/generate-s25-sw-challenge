@@ -1,0 +1,142 @@
+[
+    {
+        "id": "FRY24680",
+        "name": "Cuisinart Convection AirFryer",
+        "categories": [
+            "home goods"
+        ],
+        "stars": 276,
+        "price": 20000
+    },
+    {
+        "id": "EBK46802",
+        "name": "Amazon Kindle Paperwhite Kids Edition",
+        "categories": [
+            "electronics",
+            "toys"
+        ],
+        "stars": 492,
+        "price": 11000
+    },
+    {
+        "id": "GRI35781",
+        "name": "Cuisinart 5-in-1 Griddler",
+        "categories": [
+            "home goods"
+        ],
+        "stars": 403,
+        "price": 7000
+    },
+    {
+        "id": "STU35791",
+        "name": "Dyson V11 Torque Drive Vacuum",
+        "categories": [
+            "home goods"
+        ],
+        "stars": 187,
+        "price": 49900
+    },
+    {
+        "id": "DWD35791",
+        "name": "DeWalt Cordless Drill",
+        "categories": [
+            "home goods"
+        ],
+        "stars": 421,
+        "price": 12900
+    },
+    {
+        "id": "WPK35791",
+        "name": "Waterpik Cordless Water Flosser",
+        "categories": [
+            "health"
+        ],
+        "stars": 443,
+        "price": 4999
+    },
+    {
+        "id": "PQR35791",
+        "name": "Samsung 65-inch QN90B Neo QLED 4K Smart TV",
+        "categories": [
+            "electronics",
+            "home goods"
+        ],
+        "stars": 410,
+        "price": 149900
+    },
+    {
+        "id": "LLM13579",
+        "name": "Lululemon Reversible Yoga Mat",
+        "categories": [
+            "apparel",
+            "sports"
+        ],
+        "stars": 451,
+        "price": 7800
+    },
+    {
+        "id": "CAN24680",
+        "name": "Canon EOS R Mirrorless Camera",
+        "categories": [
+            "electronics"
+        ],
+        "stars": 160,
+        "price": 179900
+    },
+    {
+        "id": "SNS13579",
+        "name": "Sonos One SL Speaker",
+        "categories": [
+            "electronics"
+        ],
+        "stars": 468,
+        "price": 18000
+    },
+    {
+        "id": "KLM13579",
+        "name": "Charmin Ultra Soft Toilet Paper",
+        "categories": [
+            "grocery",
+            "home goods"
+        ],
+        "stars": 281,
+        "price": 600
+    },
+    {
+        "id": "COF46802",
+        "name": "Breville Espresso Machine",
+        "categories": [
+            "home goods"
+        ],
+        "stars": 491,
+        "price": 69900
+    },
+    {
+        "id": "HOOD2468",
+        "name": "Under Armour Men's Armour Fleece Hoodie",
+        "categories": [
+            "apparel",
+            "sports"
+        ],
+        "stars": 458,
+        "price": 6500
+    },
+    {
+        "id": "CON13579",
+        "name": "Converse Chuck Taylor All Star",
+        "categories": [
+            "apparel"
+        ],
+        "stars": 398,
+        "price": 5500
+    },
+    {
+        "id": "COL24680",
+        "name": "Creed Aventus Cologne",
+        "categories": [
+            "beauty"
+        ],
+        "stars": 498,
+        "price": 34500
+    }
+]
